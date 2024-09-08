@@ -1,0 +1,195 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+
+}
+
+.header{
+    background-color: #163a24;
+    align-items: center;
+    padding: 17px;
+}
+.header_wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.login{
+    color: #ffffff;
+    padding-right: 25px;
+    font-size: 18px;
+}
+.number{
+    color: #FFFF;
+    padding-right: 25px;
+    font-size: 18px;
+}
+
+.Mashka{
+    max-width: 1180px;
+    margin: 0 auto;
+    
+
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button{
+    background-color: #163a24;
+    border: none;
+}
+.get{
+    font-size: 18px;
+    color: #FFff;
+    background-color: #198a36;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.main{
+    background-color: #163a24;
+    height: calc(100vh - 90px);
+}
+.main_title{
+    color: #FFff;
+    font-size: 48px;
+    max-width: 391px;
+    padding-top: 120px;
+    
+}
+.ms{
+    color: #FFff;
+    font-size: 18px;
+    max-width: 475px;
+    padding-top: 18px;
+}
+.mb{
+    display: flex;
+}
+.TT{
+    font-size: 48px;
+    padding-top: 155px;
+    max-width: 325px;
+    
+}
+.TS{
+    font-size: 18px;
+    padding-top: 18px;
+    max-width: 374px;
+}
+.Fanta{
+    padding-top: 118px;
+}
+
+.block1{
+    display: flex;
+    justify-content: space-between;
+}
+.EXT{
+    font-size: 48px;
+    padding-top: 93px;
+    display: flex;
+    margin-left: 390px;
+}
+.google{
+    padding-top: 50px;
+    margin-left: 150px;
+
+}
+.pools{
+    display: flex;
+    justify-content: space-between;
+}
+.quality{
+    padding-top: 66px;
+    margin-left: 380px;
+    font-size: 48px;
+    color: #FFff;
+}
+
+.Pool{
+    background-color: #163a24;
+    margin-top: 120px;
+    padding-top: 40px;
+}
+
+.pib2{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 73px;
+    margin-bottom: -40px;
+    padding-right: 219px;
+    padding-left: 90px;
+}
+.pibblock{
+    color: #FFF;
+    padding-top: 28px;
+    margin-bottom: 120px;
+    
+}
+.Lampa{
+    background-color: #f2efe6;
+    height: 775px;
+}.omg{
+    padding-top: 120px;
+    margin-left: 150px;
+}
+.omg1{
+    font-size: 48px;
+}
+.omg2{
+    font-size: 18px;
+}
+.loe1{
+    margin-left: 150px;
+}
+
+.y{
+    font-size: 48px;
+    padding-top: 180px;
+    max-width: 325px;
+    color: #163a24;
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    align-items: center;
+}
+.x{
+    font-size: 18px;
+    padding-top: 18px;
+    max-width: 374px;
+}
+.happy{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.happy.end{
+    display: flex;
+    max-width: 487px;
+    padding-top: 180px;
+
+}
+.hip{
+    margin-left: 100px;
+}
+.lol{
+    padding-top: 20px;
+}
+.lol2{
+    padding-top: 50px;
+}
